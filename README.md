@@ -1,6 +1,6 @@
 # Spring Fundamentals
 
-This is repository is to stored some fundamental concepts learnings of spring.
+This repository is for storing fundamental concepts and learnings of Spring.
 
 
 ## Table of Contents
