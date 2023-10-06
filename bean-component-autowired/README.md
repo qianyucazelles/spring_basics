@@ -1,12 +1,15 @@
 # Spring| Bean | Component | Autowired
 
 This is simple spring boot project to explain and show how bean, component and autowired works in spring container.
+Inside this project, you will see what beans are generated in container every time we launch our spring application.
+Then we create 4 beans by @Component/@Bean methods as below logic graph.
+<iframe src="https://link.excalidraw.com/readonly/XO0pExPerljWhle9JB5g" width="100%" height="100%" style="border: none;"></iframe>
 
 
 ## Table of Contents
 
 - [Project Information](#project-information)
-- [Logic](#logic)
+- [References](#references)
 
 
 ## Project Information
@@ -14,8 +17,6 @@ This is simple spring boot project to explain and show how bean, component and a
 - **Java Version**: 17
 - **Maven**:4.0.0
 
-## Logic
-![logic graph]<iframe src="https://link.excalidraw.com/readonly/XO0pExPerljWhle9JB5g" width="100%" height="100%" style="border: none;"></iframe>
 
 
 
@@ -25,6 +26,4 @@ This is simple spring boot project to explain and show how bean, component and a
 
 
 
-```bash
-# Example installation command
-npm install your-project
+
