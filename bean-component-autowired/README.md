@@ -3,7 +3,7 @@
 This is simple spring boot project to explain and show how bean, component and autowired works in spring container.
 Inside this project, you will see what beans are generated in container every time we launch our spring application.
 Then we create 4 beans by @Component/@Bean methods as below logic graph.
-<iframe src="https://link.excalidraw.com/readonly/XO0pExPerljWhle9JB5g" width="100%" height="100%" style="border: none;"></iframe>
+<img src="https://link.excalidraw.com/readonly/XO0pExPerljWhle9JB5g" alt="Excalidraw Diagram" width="100%">
 
 
 ## Table of Contents
