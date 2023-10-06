@@ -15,7 +15,7 @@ This is simple spring boot project to explain and show how bean, component and a
 - **Maven**:4.0.0
 
 ## Logic
-![logic graph](https://link.excalidraw.com/readonly/XO0pExPerljWhle9JB5g)
+![logic graph](<iframe src="https://link.excalidraw.com/readonly/XO0pExPerljWhle9JB5g" width="100%" height="100%" style="border: none;"></iframe>)
 
 
 
